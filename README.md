@@ -1,4 +1,4 @@
-# 📚 Manga Zip Server (Kodi-Inspired)
+# 📚 MokuServe
 
 <video src="https://github.com/user-attachments/assets/8615a18d-d33e-44da-846a-b000f7264a90" controls="controls" style="max-width: 730px;">
 </video>
