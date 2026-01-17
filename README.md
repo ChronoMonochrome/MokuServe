@@ -1,9 +1,8 @@
-
-This README is designed to help you and other users set up the **Manga Zip Server** quickly. It highlights the unique "in-memory" architecture that solves the problem of high file counts on SD cards.
-
-----------
-
 # 📚 Manga Zip Server (Kodi-Inspired)
+
+<video src="https://github.com/user-attachments/assets/8615a18d-d33e-44da-846a-b000f7264a90" controls="controls" style="max-width: 730px;">
+</video>
+
 
 A lightweight, zero-extraction Python web server designed to serve manga processed with **Mokuro** directly from `.zip` archives.
 
